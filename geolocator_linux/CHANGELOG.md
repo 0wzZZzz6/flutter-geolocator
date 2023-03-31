@@ -1,6 +1,6 @@
 ## 0.1.2
 
-- Migrates to Dart SDK 2.15.0 and Flutter 2.8.0.
+- Migrates to Dart SDK 2.19.5 and Flutter 2.8.0.
 
 ## 0.1.1
 
